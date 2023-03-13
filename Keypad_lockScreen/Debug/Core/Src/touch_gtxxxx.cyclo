@@ -1,0 +1,12 @@
+touch_gtxxxx.c:145:16:CTP_I2C_Read	4
+touch_gtxxxx.c:177:16:CTP_I2C_Write	4
+touch_gtxxxx.c:195:15:CTP_Send_Command	3
+touch_gtxxxx.c:211:15:CTP_I2C_Test	3
+touch_gtxxxx.c:238:13:CTP_Touch_Down	1
+touch_gtxxxx.c:250:13:CTP_Touch_Up	3
+touch_gtxxxx.c:267:6:CTP_TS_Work_Func	7
+touch_gtxxxx.c:339:9:CTP_read	1
+touch_gtxxxx.c:349:15:CTP_WakeUp_Sleep	3
+touch_gtxxxx.c:365:16:CTP_Get_Info	3
+touch_gtxxxx.c:398:9:CTP_Init_Panel	16
+touch_gtxxxx.c:526:16:CTP_Read_Version	15

@@ -1,0 +1,3 @@
+ext_font.c:32:6:print_User_Define_Ascii	5
+ext_font.c:143:13:LT_ReadFlash	1
+ext_font.c:155:17:LT_Color24_To_16	1

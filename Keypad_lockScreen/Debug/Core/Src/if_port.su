@@ -1,0 +1,14 @@
+../Core/Src/if_port.c:17:10:SPI2_ReadWriteByte	16	static
+../Core/Src/if_port.c:35:6:SPI_CmdWrite_8	24	static
+../Core/Src/if_port.c:46:6:SPI_DataWrite_8	16	static
+../Core/Src/if_port.c:54:6:SPI_DataWrite_Pixel_8	16	static
+../Core/Src/if_port.c:67:9:SPI_StatusRead_8	16	static
+../Core/Src/if_port.c:79:10:SPI_DataRead_8	16	static
+../Core/Src/if_port.c:93:6:LCD_CmdWrite	16	static
+../Core/Src/if_port.c:101:6:LCD_DataWrite	16	static
+../Core/Src/if_port.c:111:6:LCD_DataWrite_Pixel	16	static
+../Core/Src/if_port.c:121:9:LCD_StatusRead	16	static
+../Core/Src/if_port.c:133:10:LCD_DataRead	16	static
+../Core/Src/if_port.c:145:6:Delay_us	24	static
+../Core/Src/if_port.c:155:6:Delay_ms	24	static
+../Core/Src/if_port.c:166:6:Parallel_Init	8	static

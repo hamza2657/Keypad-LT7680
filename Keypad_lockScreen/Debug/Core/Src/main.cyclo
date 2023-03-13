@@ -1,0 +1,11 @@
+main.c:104:5:main	49
+main.c:293:6:SystemClock_Config	3
+main.c:337:6:drawKeyPad	16
+main.c:468:6:int_to_string	1
+main.c:472:6:Keypad_storePassword	3
+main.c:491:6:remove_last_entry_from_password	2
+main.c:503:6:check_Password	3
+main.c:519:6:clear_password	2
+main.c:531:6:initiate_mainScreen	1
+main.c:539:6:updatewidget	15
+main.c:602:6:Error_Handler	1
